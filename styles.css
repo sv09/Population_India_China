@@ -1,0 +1,21 @@
+h2{
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+.content{
+    max-width: 1100px;
+    margin: 50px auto;
+}
+.popFemaleIndia{
+    fill: rgba(210, 182, 0, 0.8);
+}
+.popMaleIndia{
+    fill: rgba(85, 85, 85, 0.9);
+}
+.popFemaleChina{
+    fill: rgba(210, 182, 0, 0.8);
+}
+.popMaleChina{
+    fill: rgba(85, 85, 85, 0.9);
+}
